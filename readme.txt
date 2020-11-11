@@ -1,9 +1,3 @@
-Name: Dominick D'Andrea
-JHU ID: 75805A
-
-Module 4 Assignment: N-body Simulation
-Due: 09/28/2020 at 11:59 PM EST
-
 Summary
 In this module, the motion of celestial bodies is simulated by modeling the
 gravitational forces between two bodies using kinematic equations. The goal
